@@ -1,0 +1,10 @@
+customtkinter
+opencv-python
+mss
+pygetwindow
+pydirectinput
+keyboard
+torch
+torchvision
+numpy
+pillow
